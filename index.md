@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to my Linkedin](https://www.linkedin.com/in/jared-gibb-1090112b3).
 
