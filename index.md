@@ -5,10 +5,6 @@ layout: default
 
 [Link to my Linkedin](https://www.linkedin.com/in/jared-gibb-1090112b3).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -19,14 +15,15 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Homelab Nmap Scan
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+             [Router]
+            /        \
+  [Kali Server]    [Ubuntu Server]
+  (IP: 10.0.2.4)   (IP: 10.0.2.15)
+        [------------->]
+            Nmap Scan
 ```
 
 ```ruby
